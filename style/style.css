@@ -9,6 +9,10 @@ body{
     background: rgb(251,208,87);
     background: radial-gradient(circle, rgba(251,208,87,1) 0%, rgba(198,145,73,1) 100%);
 }
+.dropdown-background{
+    background: rgb(251,208,87);
+    background: radial-gradient(circle, rgba(251,208,87,1) 0%, rgba(198,145,73,1) 100%);
+}
 .brand-logo{
     height: 60px;
 }
@@ -96,6 +100,21 @@ body{
 }
 .footer-col img{
     width: 100%;
+}
+.footer-social-media-icon{
+    margin-right: 0px;
+}
+.footer-social-media-icon ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+.footer-social-media-icon ul li{
+    float: left;
+    padding-left: 20px;
+}
+.footer-social-media-icon ul li a{
+    color: #fff;
 }
 /* ======================================================================================================================================= */
 
