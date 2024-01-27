@@ -69,6 +69,34 @@ body{
     width: 100%;
     height: 220px;
 }
+.gallery-btn-group{
+   margin-bottom: 40px; 
+}
+.gallery-btn{
+    font-size: 8px;
+    background: rgb(251,208,87);
+    background: radial-gradient(circle, rgba(251,208,87,1) 0%, rgba(198,145,73,1) 100%);
+    color: #fff;
+
+}
+.article-image img{
+    width: 100%;
+}
+.atricle-text h1{
+    font-size: 18px;
+}
+.atricle-text p{
+    font-size: 15px;
+}
+.article-footer{
+    background: rgb(251,208,87);
+    background: radial-gradient(circle, rgba(251,208,87,1) 0%, rgba(198,145,73,1) 100%);
+    font-weight: bold;
+    color: #fff;
+}
+.footer-col img{
+    width: 100%;
+}
 /* ======================================================================================================================================= */
 
 
