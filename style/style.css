@@ -4,6 +4,8 @@ body{
     background: rgb(255,255,255);
     background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(232,226,150,1) 100%);
     overflow-x: hidden;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Unna', serif;
 }
 .top-nav{
     background: rgb(251,208,87);
@@ -57,9 +59,14 @@ body{
     height: 370px;
 }
 .shoots-heading{
-    border-bottom: 2px solid #b38632;
+    border-bottom: 1px solid #b38632;
     margin-bottom: 30px;
     text-transform: uppercase;
+}
+.shoots-heading h2{
+    font-size: 25px;
+    text-transform: uppercase;
+    color: #b38632;;
 }
 .season-details-col h2{
     text-transform: uppercase;
@@ -101,9 +108,7 @@ body{
 .footer-col img{
     width: 100%;
 }
-.footer-social-media-icon{
-    margin-right: 0px;
-}
+
 .footer-social-media-icon ul{
     list-style-type: none;
     margin: 0px;
@@ -115,6 +120,16 @@ body{
 }
 .footer-social-media-icon ul li a{
     color: #fff;
+}
+
+/* ABOUT US PAGE DESIGN  */
+.about-argus-news-col img{
+    width: 350px;
+}
+.about-social-icon-btn{
+    background: transparent;
+    border: 2px solid #b38632;
+    color: #000000;
 }
 /* ======================================================================================================================================= */
 
