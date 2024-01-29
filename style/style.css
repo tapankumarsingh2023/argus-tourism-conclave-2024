@@ -111,6 +111,7 @@ button.navbar-toggler.togglor-icon i {
     padding: 5px;
     border-radius: 5px;
     background: radial-gradient(circle, rgba(251,208,87,1) 0%, rgba(198,145,73,1) 100%);
+    margin-bottom: 20px;
 }
 .read-mores{
     color: #000;
