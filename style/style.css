@@ -112,6 +112,10 @@ button.navbar-toggler.togglor-icon i {
     border-radius: 5px;
     background: radial-gradient(circle, rgba(251,208,87,1) 0%, rgba(198,145,73,1) 100%);
 }
+.read-mores{
+    color: #000;
+    text-decoration: none;
+}
 .card-body {
     -ms-flex: 1 1 auto;
     flex: 1 1 auto;
