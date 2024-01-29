@@ -3,7 +3,6 @@ body{
     padding: 0px;
     background: rgb(255,255,255);
     background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(232,226,150,1) 100%);
-    overflow-x: hidden;
     font-family: 'Crimson Text', serif;
     font-family: 'Unna', serif;
 }
@@ -112,6 +111,10 @@ button.navbar-toggler.togglor-icon i {
     border-radius: 5px;
     background: radial-gradient(circle, rgba(251,208,87,1) 0%, rgba(198,145,73,1) 100%);
     margin-bottom: 20px;
+}
+.read-more-button:hover{
+    text-decoration: none;
+    color: #333;
 }
 .read-mores{
     color: #000;
