@@ -131,6 +131,20 @@ body{
     border: 2px solid #b38632;
     color: #000000;
 }
+.challenges-header{
+    border-left: 1px solid #b38632;
+    border-right: 1px solid #b38632;
+    border-bottom: 1px solid #b38632;
+}
+.challenges-header h3{
+    font-size: 20px;
+}
+.challenges-body{
+    height: 200px;
+    border-right: 1px solid #b38632;
+    border-left: 1px solid #b38632;
+    background-color: transparent;
+}
 /* ======================================================================================================================================= */
 
 
