@@ -23,6 +23,13 @@ body{
     color: #fff;
     font-weight: bold;
 }
+button.navbar-toggler.togglor-icon i {
+    font-size: 17px;
+    color: #fff;
+    background-color: #ec080a;
+    padding: 7px;
+    border-radius: 6px;
+}
 .togglor-icon{
     color: #333;
 }
