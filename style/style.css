@@ -5,6 +5,7 @@ body{
     background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(232,226,150,1) 100%);
     font-family: 'Crimson Text', serif;
     font-family: 'Unna', serif;
+    overflow-x: hidden;
 }
 .top-nav{
     background: rgb(251,208,87);
@@ -106,9 +107,11 @@ button.navbar-toggler.togglor-icon i {
     text-align: center;
     display: block;
     margin: 0 auto;
-    width: 22%;
-    padding: 5px;
-    border-radius: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: fit-content;
     background: radial-gradient(circle, rgba(251,208,87,1) 0%, rgba(198,145,73,1) 100%);
     margin-bottom: 20px;
 }
@@ -144,6 +147,9 @@ button.navbar-toggler.togglor-icon i {
     font-weight: bold;
     color: #fff;
 }
+.article-footer a{
+    text-decoration: none;
+}
 .footer-col img{
     width: 100%;
 }
@@ -159,6 +165,10 @@ button.navbar-toggler.togglor-icon i {
 }
 .footer-social-media-icon ul li a{
     color: #fff;
+}
+.footer-social-media-icon ul li a{
+    color: #fff;
+    text-decoration: none;
 }
 
 /* ABOUT US PAGE DESIGN  */
