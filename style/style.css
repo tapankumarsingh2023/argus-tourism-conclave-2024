@@ -212,6 +212,10 @@ button.navbar-toggler.togglor-icon i {
         width: 100%px;
         height: 370px;
     }
+    .story-section{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
 }
 
 
@@ -262,6 +266,10 @@ button.navbar-toggler.togglor-icon i {
     .shoots-section-col iframe{
         width: 290px;
         height: 370px;
+    }
+    .story-section{
+        padding-left: 10px;
+        padding-right: 10px;
     }
    
     
